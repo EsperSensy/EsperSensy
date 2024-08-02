@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EsperSensy, a 15 year old junior python developer!
+- 👀 I’m interested in Java, Python and Lua
+- 🌱 LF collabs in easy python projects.
+- 📫 Reach me on discord: sensyyy
